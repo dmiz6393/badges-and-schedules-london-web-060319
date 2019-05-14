@@ -19,7 +19,8 @@ end
 new_list
 end
 
-
+def printer(attendees)
+  
   
   
 
