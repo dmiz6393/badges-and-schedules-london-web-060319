@@ -1,6 +1,5 @@
-def attendees 
-  attendees_list= ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-end 
+attendees= ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+
 
 def badge_maker(name)
     "Hello, my name is #{name}."
