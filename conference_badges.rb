@@ -20,7 +20,11 @@ new_list
 end
 
 def printer(attendees)
-  batch_badge_creator(attendees). each do 
+  batch_badge_creator(attendees). each do |individual| 
+    puts individual 
+  end 
+  
+  
   
   
 
