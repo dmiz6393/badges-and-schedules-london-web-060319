@@ -15,7 +15,7 @@ end
 end
 
 def assign_rooms(attendees)
-attendees.each do   
+attendees.each_with_index do   
   "Hello, _____! You'll be assigned to room _____!" 
   
 
