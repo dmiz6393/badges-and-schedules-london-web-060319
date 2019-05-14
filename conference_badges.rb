@@ -18,7 +18,7 @@ attendees.each_with_index do |attendee, index|
 end
 end
   
-def print_badges   
+  
 
 
   
