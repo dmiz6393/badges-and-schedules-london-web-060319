@@ -1,5 +1,5 @@
 def attendees 
-  attendees= ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  attendees_list= ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 end 
 
 def badge_maker(name)
