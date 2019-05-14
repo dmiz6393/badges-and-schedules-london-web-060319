@@ -15,8 +15,8 @@ end
 end
 
 def assign_rooms(attendees)
-  
-  
+attendees.each do   
+  "Hello, _____! You'll be assigned to room _____!" 
   
 
 
